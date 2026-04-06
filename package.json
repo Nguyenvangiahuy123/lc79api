@@ -1,0 +1,20 @@
+{
+  "name": "chaos-markov-taixiu",
+  "version": "1.0.0",
+  "description": "CHAOS MARKOV Tài Xỉu AI Server",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "HDX TOOL",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
